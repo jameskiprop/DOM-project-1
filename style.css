@@ -67,3 +67,7 @@ main {
 .fa-trash-alt {
   color: #de6b5c;
 }
+
+.fas.fa-heart.liked {
+  color: red;
+}
